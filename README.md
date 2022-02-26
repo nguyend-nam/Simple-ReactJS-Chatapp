@@ -7,8 +7,8 @@
 
 ## Features
   - Sign in with Gmail or GitHub using Firebase.
-  - User friendly UI using ReactJS.
-  - Custom chat app using Chatengine.io.
+  - User-friendly UI using ReactJS.
+  - Custom chat app with Chatengine.io.
 
 <br>
 
